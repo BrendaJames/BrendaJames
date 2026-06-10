@@ -66,13 +66,13 @@ Exercise 8 — Blockquote
 
 Consistency and practice are the keys to learning programming.
 
-Bonus — About Me
+#Bonus — About Me
 
 My name is Brenda James.
 I am a Computer Programming student learning web development and software development.
 I use GitHub to store and manage my projects.
 
-My goals include:
+#My goals include:
 
 Becoming a skilled developer
 Building real-world applications
